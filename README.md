@@ -1,6 +1,6 @@
 # Java Racer
 
-A 2D basic racing game that features easy to custimize maps, collision detection, different surface types with different behaviours and a point system.
+A 2D basic racing game that features easy to custimize maps, collision detection, car behaviour physics, different surface types with different behaviours and a point system.
 
 
 ## Screen Shots
