@@ -6,15 +6,15 @@ A 2D basic racing game that features easy to custimize maps, collision detection
 ## Screen Shots
 The start of the game
 
-![start](https://github.com/boraakoguz/JavaRacer/blob/[branch]/image.jpg?raw=true)
+![start](https://github.com/boraakoguz/JavaRacer/blob/main/screenshots/start.png)
 
 Going off bounds will reduce points
 
-![loss](https://github.com/boraakoguz/JavaRacer/assets/66472581/76bd1441-06fb-4d53-8900-c5cf9ced2ff2)
+![loss](https://github.com/boraakoguz/JavaRacer/blob/main/screenshots/loss.png)
 
 Going off the track will reduce further points
 
-![offtrack](https://github.com/boraakoguz/JavaRacer/assets/66472581/3454d42d-cbea-4b46-9466-a10f74b6c36d)
+![offtrack](https://github.com/boraakoguz/JavaRacer/blob/main/screenshots/offtrack.png)
 
 Map creation is as simple as a 100x100 png. Using the default rgb values in paint, the color coding is as follows:
 - Green: Grass
@@ -28,7 +28,7 @@ If you want to create your own map, edit the track.png file in source directory 
 
 ## Example Map (can be found in source):
 
-![map](https://github.com/boraakoguz/JavaRacer/assets/66472581/36166a0c-732f-43a6-bc4d-49e97a0c525f)
+![map](https://github.com/boraakoguz/JavaRacer/blob/main/screenshots/map.png)
 
 
 ## TODO
