@@ -6,7 +6,7 @@ A 2D basic racing game that features easy to custimize maps, collision detection
 ## Screen Shots
 The start of the game
 
-![start](https://github.com/boraakoguz/JavaRacer/assets/66472581/306fd8f5-973d-454e-a650-4a1edbd6436f)
+![start](https://github.com/boraakoguz/JavaRacer/blob/[branch]/image.jpg?raw=true)
 
 Going off bounds will reduce points
 
