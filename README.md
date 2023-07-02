@@ -6,7 +6,7 @@ A 2D basic racing game that features easy to custimize maps, collision detection
 ## Screen Shots
 The start of the game
 
-![start](https://github.com/boraakoguz/JavaRacer/blob/main/screenshots/start.png)
+![start](https://github.com/boraakoguz/JavaRacer/blob/main/screenshots/start.PNG)
 
 Going off bounds will reduce points
 
@@ -14,7 +14,7 @@ Going off bounds will reduce points
 
 Going off the track will reduce further points
 
-![offtrack](https://github.com/boraakoguz/JavaRacer/blob/main/screenshots/offtrack.png)
+![offtrack](https://github.com/boraakoguz/JavaRacer/blob/main/screenshots/offtrack.PNG)
 
 Map creation is as simple as a 100x100 png. Using the default rgb values in paint, the color coding is as follows:
 - Green: Grass
