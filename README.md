@@ -24,8 +24,9 @@ Map creation is as simple as a 100x100 png. Using the default rgb values in pain
 - Blue: Water
 - Brown: Mud
 - Gray: Indicates the spawn tile and spawn direction. Must be placed next to a white (Finish/Start Line) tile. Will be drawn as asphalt in game.
-If you want to create your own map edit the track.png file in source directory with paint and use the default colors otherwise the RGB values should match with the example map.
-Example Map (can be found in source):
+If you want to create your own map, edit the track.png file in source directory with paint and use the default colors otherwise the RGB values should match with the example map.
+
+## Example Map (can be found in source):
 
 ![map](https://github.com/boraakoguz/JavaRacer/assets/66472581/36166a0c-732f-43a6-bc4d-49e97a0c525f)
 
